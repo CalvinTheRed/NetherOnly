@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "121",
+    "232",
+    "444"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "minecraft:cracked_nether_bricks"
+    },
+    "3": {
+      "item": "minecraft:furnace"
+    },
+    "4": {
+      "item": "minecraft:polished_basalt"
+    }
+  },
+  "result": {
+    "item": "minecraft:blast_furnace"
+  }
+}

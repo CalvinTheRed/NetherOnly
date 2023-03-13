@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "111",
+    "1 1",
+    "222"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blackstone"
+    },
+    "2": {
+      "item": "minecraft:polished_blackstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:furnace"
+  }
+}
