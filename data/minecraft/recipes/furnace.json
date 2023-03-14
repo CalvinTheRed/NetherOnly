@@ -2,14 +2,17 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "111",
-    "1 1",
-    "222"
+    "121",
+    "333"
   ],
   "key": {
     "1": {
       "item": "minecraft:blackstone"
     },
     "2": {
+      "tag": "no:soul_fire_bases"
+    },
+    "3": {
       "item": "minecraft:polished_blackstone"
     }
   },
